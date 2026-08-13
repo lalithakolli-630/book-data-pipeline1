@@ -85,3 +85,8 @@ Install the required packages:
 pip install requests beautifulsoup4 pandas
 
 Open the notebook in Google Colab or Jupyter Notebook and run the cells from top to bottom.
+## Validation
+
+The final pipeline produced 69 book records across 3 book categories.
+
+The database contains the normalized categories and books tables with a primary-key/foreign-key relationship.
